@@ -9,7 +9,9 @@ I learned where and when to use different semantic elements and how to write des
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+The website can be found at [this link](https://carol-tsai.github.io/horiseon-accessibility-refactor/).
+
+You can navigate to different sections of this page using the links on the top right corner. People using a screen reader will be able to hear a descriptive title and alt attributes for the images and icons on the website.
 
 ![Screenshot of website](assets/images/screenshot.png)
 
@@ -19,6 +21,9 @@ Assets and original code acquired through UPenn LPS Coding Bootcamp course mater
 
 ### Reference documents
 [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
+## How to Contribute
+Please reach out to me at carol.tsai0224@gmail.com if you would like to contribute to this project.
 
 
 ## License
