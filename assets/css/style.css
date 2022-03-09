@@ -1,3 +1,7 @@
+/* Stylesheet for Horiseon webpage. 
+Selectors ordered by type (largest to smallest
+and then alphabetically within each type. */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -62,15 +66,15 @@ p {
     background-color: #0072bb;
 }
 
-/* consolidated img formatting for content class */
-.content section img {
-    max-height: 200px;
-}
-
 /* consolidated h2 formatting for content class */
 .content section h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+/* consolidated img formatting for content class */
+.content section img {
+    max-height: 200px;
 }
 
 .float-left {
