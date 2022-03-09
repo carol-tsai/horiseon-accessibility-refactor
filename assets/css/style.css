@@ -2,7 +2,11 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    color: #ffffff; /* Added color to universal style to remove redundant code */
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
 }
 
 body {
@@ -22,6 +26,7 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    color: #ffffff;
 }
 /* consolidated section style for benefits class */
 .benefits section {
@@ -45,6 +50,7 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    color: #ffffff;
 }
 
 /* consolidated section formatting for content class */
@@ -86,17 +92,13 @@ p {
 
 .footer h2 {
     font-size: 20px;
-    color: black;
-}
-
-.footer p {
-    color: black;
 }
 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
+    color: #ffffff;
 }
 
 .header h1 {
